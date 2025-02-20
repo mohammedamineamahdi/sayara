@@ -1,5 +1,5 @@
 {
-  "ADS_PROVIDER": "IRONSOURCE",
+  "ADS_PROVIDER": "admob",
   "ADS_VIDEO": "YES",
   "YANDEX_BANNER": "demo-banner-yandex",
   "YANDEX_INTERSTITIAL": "demo-interstitial-yandex",
